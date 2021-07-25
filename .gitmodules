@@ -1,0 +1,12 @@
+[submodule "pybind11"]
+	path = pybind11
+	url = git@github.com:pybind/pybind11.git
+[submodule "zstr"]
+	path = zstr
+	url = git@github.com:mateidavid/zstr.git
+[submodule "argh"]
+	path = argh
+	url = git@github.com:adishavit/argh.git
+[submodule "filesystem"]
+	path = filesystem
+	url = git@github.com:gulrak/filesystem.git
